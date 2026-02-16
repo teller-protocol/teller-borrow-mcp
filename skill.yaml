@@ -7,7 +7,7 @@ description: >-
 summary: Borrow USDC & altcoins against altcoin collateral with no margin-call liquidations; quotes max borrow, builds borrow/repay tx, delta-neutral optional.
 author: Teller Protocol
 displayName: "Teller MCP – Borrow USDC & Altcoins (no margin calls)"
-repository: https://github.com/teller-protocol/teller-mcp
+repository: https://github.com/teller-protocol/teller-borrow-mcp
 license: MIT
 entrypoint: skills/tellermcp-mcp/scripts/tellermcp-server
 artifact: dist/tellermcp-mcp.skill
